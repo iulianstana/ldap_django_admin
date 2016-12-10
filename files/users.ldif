@@ -1,0 +1,11 @@
+dn: cn=Iulian Stana,ou=Users,dc=openstack,dc=org
+objectclass: inetOrgPerson
+cn: Iulian Stana
+sn: Iulian
+uid: istana
+userpassword: mySecretPass
+carlicense: None
+homephone: 555-111-222
+mail: iulianstana@exemple.com
+description: hacker guy
+ou: Development Department  
